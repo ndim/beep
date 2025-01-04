@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# SPDX-FileCopyrightText: 2022 Hans Ulrich Niedermann <hun@n-dimensional.de>
+#
+# SPDX-License-Identifier: GPL-2.0-or-later
+
 cd "$(dirname "$0")"
 
 export LC_ALL=C

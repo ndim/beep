@@ -1,3 +1,8 @@
 #!/bin/sh
+
+# SPDX-FileCopyrightText: 2019 Hans Ulrich Niedermann <hun@n-dimensional.de>
+#
+# SPDX-License-Identifier: CC0-1.0
+
 # successfully sounding A major arpeggio
 beep -f 220 -l 100  -n -f 275 -l 100  -n -f 330 -l 100  -n -f 440 -l 100  -n -f 550 -l 100  -n -f 660 -l 100  -n -f 880

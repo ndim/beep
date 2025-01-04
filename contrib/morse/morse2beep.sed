@@ -17,6 +17,8 @@
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 #
+# SPDX-License-Identifier: GPL-2.0-or-later
+#
 # Usage:
 #   cat text-file.txt | morse | tr '\n' '\r' | sed -f morse2beep.sed | xargs beep
 #

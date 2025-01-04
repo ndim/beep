@@ -1,5 +1,12 @@
 # Files that should not be tracked by Git
 
+# SPDX-FileCopyrightText: 2018 Hans Ulrich Niedermann <hun@n-dimensional.de>
+# SPDX-FileCopyrightText: 2019 Hans Ulrich Niedermann <hun@n-dimensional.de>
+# SPDX-FileCopyrightText: 2020 Hans Ulrich Niedermann <hun@n-dimensional.de>
+# SPDX-FileCopyrightText: 2022 Hans Ulrich Niedermann <hun@n-dimensional.de>
+#
+# SPDX-License-Identifier: CC0-1.0
+
 # The compiled executables
 /beep
 /*.clang

@@ -16,6 +16,9 @@
  * with this program; if not, write to the Free Software Foundation, Inc.,
  * 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
  *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ *
+ *
  * \defgroup issue-6-benchmark The issue-6-benchmark program
  *
  * Usage: See print_usage() function just below the "#include"s.
