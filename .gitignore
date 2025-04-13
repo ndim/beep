@@ -54,6 +54,8 @@
 /tests/*.actual
 /tests/*.output.new
 /tests/*.output
+/tests/*.pcspkr-actual
+/tests/*.pcspkr-expected
 
 # Misc results
 *.strace
