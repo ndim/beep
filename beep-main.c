@@ -596,7 +596,9 @@ int main(const int argc, char *const argv[])
         note = next_note;
     }
 
-    beep_drivers_end_tone(driver);
+    if (global_abort) {
+        beep_drivers_end_tone(driver);
+    }
     beep_drivers_fini(driver);
 
     if (global_abort) {
